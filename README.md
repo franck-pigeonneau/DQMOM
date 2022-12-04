@@ -6,3 +6,15 @@ See for more information
 
 Pigeonneau, F.; Pereira, L. & Laplace, A. Dynamics of rising bubble population undergoing mass transfer and coalescence in highly viscous liquid 
 Chem. Eng. J., 2022, (under review), doi:10.2139/ssrn.4216102
+
+For Linux users:
+
+Compilation:
+
+make
+
+Execution:
+
+./dqmom inputdata.in
+
+Four files .dat are saved with unknowns to plot on 2D figures.
