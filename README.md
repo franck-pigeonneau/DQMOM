@@ -5,7 +5,7 @@ are numerically solved using a Runge-Kutta technique at the fourth order.
 See for more information
 
 Pigeonneau, F.; Pereira, L. & Laplace, A. Dynamics of rising bubble population undergoing mass transfer and coalescence in highly viscous liquid 
-Chem. Eng. J., 2022, (under review), doi:10.2139/ssrn.4216102
+Chem. Eng. J., 2023, 455, 140920, doi:10.1016/j.cej.2022.140920
 
 For Linux users:
 
